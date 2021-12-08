@@ -1,6 +1,6 @@
 #  Information Retrieval<br>PAGE RANKING
 
-<!-- #### Video Demo:  <URL HERE> -->
+
 #### **Description:**
 ---
 **PageRank** (PR) is an **algorithm** to **rank web pages** in **search engine results**.
